@@ -14,4 +14,4 @@ export const RANDOMNESS_SESSION_STORAGE_KEY = "demo_randomness_key_pair";
 
 // NFTのパッケージID(Chain IDEを使って事前にデプロイしておく！)
 export const NFT_PACKAGE_ID =
-  "0xedf0c634b81d31db56077407d4525c5e9855cd0f5df45a926cb49fbcaf85389f";
+  "0x16aaf55e217f0a20078985baf5ad5822c2c729ac7ed72cd2eb66890e5c92ec0d";
